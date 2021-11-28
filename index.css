@@ -42,20 +42,9 @@ h2{
     font-weight: normal;
     
 }
-.java,.python{
-    width:60%;
-    height:auto;
-}
-.skill2{
-    margin-top: 10px;
-}
-.skill1{
-    margin-top: 25px;
-}
-.web,.sql{
-    width:60%;
-    height:auto;
-}
+
+
+
 .skills{
  margin-left: 560px;
 }
@@ -149,4 +138,3 @@ hr{
     border-radius: 20px;
     text-decoration: none;
  }
- 
